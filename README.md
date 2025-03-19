@@ -1,1 +1,1 @@
-# MSc Bioinformatics and Neuroinformatics- Thesis
+# MSc Bioinformatics and Neuroinformatics/Thesis
